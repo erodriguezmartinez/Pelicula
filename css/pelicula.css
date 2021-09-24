@@ -1,0 +1,26 @@
+/*Esperanza Rodríguez Martínez*/
+body{
+		background-color:#D9E8E7;
+	}
+h1,h2{
+		text-align: center;
+	}
+span,.negrita,#disparo,#click,#dolor{
+	font-weight:bold;
+}
+.bueno span{
+  color:blue;
+}
+.malo span,#dolor{
+  color:red;
+}
+#disparo{
+  color:orange;
+}
+#click{
+  color:purple;
+}
+img{
+	display:block;
+	margin:auto;
+}
